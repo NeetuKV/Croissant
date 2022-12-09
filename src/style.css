@@ -1,5 +1,5 @@
 body {
-  background-color: #7d83d1;
+  background-color: #8d91c4;
 }
 h1 {
   color: white;
@@ -15,10 +15,26 @@ a {
 }
 .email-link {
   text-align: center;
+  color: brown;
 }
 img {
   display: block;
 
   width: 300px;
   height: 300px;
+}
+
+.img-link {
+  max-width: 200%;
+  border-radius: 10px;
+  display: block;
+  margin: 30px auto;
+}
+footer {
+  text-align: center;
+  display: block;
+}
+footer a {
+  margin: 0 10px;
+  color: bisque;
 }
